@@ -16,7 +16,7 @@ print(course[3]) # This will give me the character depending on which index I pi
 
 print(course1[-2]) #Negative makes it in reverse, as in it starts from the last character
 
-print(course[0:3]) ## This will give me the characters inbetween indexes 0 and 2, it will not give character of index 3 but the character right before it. I will get Pyt
+print(course[0:3]) # This will give me the characters inbetween indexes 0 and 2, it will not give character of index 3 but the character right before it. I will get Pyt
 
 
 print(course2)
